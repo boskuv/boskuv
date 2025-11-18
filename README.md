@@ -1,16 +1,40 @@
-## Hi there 👋
+# 👋 Hello, I'm boskuv!
 
-<!--
-**boskuv/boskuv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a **Backend Developer** passionate about building efficient, scalable, and reliable systems. My core expertise lies in developing RESTful APIs and microservices, with a strong focus on code quality and infrastructure.
 
-Here are some ideas to get you started:
+**Languages:**
+- 🇷🇺 Russian (Native)
+- 🇺🇸 English (B1)
+  
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Tech Stack & Tools
+
+**Programming Languages:**
+- `Go` (Golang)
+- `Python`
+- `C#` (.NET) 
+
+**Infrastructure:**
+- `Docker` & `Docker Compose`
+- `Kubernetes` (basic commands)
+- `Linux` systems
+- `Git`
+
+**CI/CD:**
+- `GitLab CI/CD`
+
+**Databases:**
+- `PostgreSQL`
+- `MS SQL Server`
+- `Redis`
+
+**Messaging & Communication:**
+- `RabbitMQ`
+- `REST API`
+- `gRPC`
+
+**Monitoring & Observability:**
+- `Grafana`
+- `Prometheus` 
+- `Jaeger`

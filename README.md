@@ -11,7 +11,7 @@ I'm a **Backend Developer** passionate about building efficient, scalable, and r
 ### 🛠️ Tech Stack & Tools
 
 **Programming Languages:**
-- `Go` (Golang)
+- `Go`
 - `Python`
 - `C#` (.NET) 
 
@@ -23,6 +23,7 @@ I'm a **Backend Developer** passionate about building efficient, scalable, and r
 
 **CI/CD:**
 - `GitLab CI/CD`
+- `GitHub Actions`
 
 **Databases:**
 - `PostgreSQL`
@@ -30,9 +31,9 @@ I'm a **Backend Developer** passionate about building efficient, scalable, and r
 - `Redis`
 
 **Messaging & Communication:**
-- `RabbitMQ`
 - `REST API`
 - `gRPC`
+- `RabbitMQ`
 
 **Monitoring & Observability:**
 - `Grafana`
